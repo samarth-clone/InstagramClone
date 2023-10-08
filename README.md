@@ -41,11 +41,3 @@ The React Native Instagram Clone is a personal learning project that mimics cert
 2. Run the application:
    - For Android: `react-native run-android`
    - For iOS: `react-native run-ios`
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
