@@ -9,8 +9,7 @@ This project is a React Native-based Instagram clone, created with the aim of le
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
